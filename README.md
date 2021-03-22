@@ -12,8 +12,8 @@ This is chat app .
 
 Deploy 
 
-*netlify
-*Heroku
+* netlify
+* Heroku
 
 
 
